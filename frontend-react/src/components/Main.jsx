@@ -15,7 +15,7 @@ const Main = () => {
                 Predict smarter investments with AI-powered stock market analysis. Our platform combines historical data, machine learning models, 
                 and interactive visualizations to deliver accurate stock price forecasts and market insights.
             </p>
-            <Button text='Login' class="btn-outline-info" />
+            <Button text='Explore Now' class="btn-outline-info" url='/dashboard' />
             
 
         </div>
